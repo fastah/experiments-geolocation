@@ -1,0 +1,244 @@
+{
+  "badJsonLines": 0,
+  "crossRirExamples": [],
+  "crossRirTransitions": {},
+  "distinctNetworkNames": 84860,
+  "errorExamples": [
+    {
+      "error": "query RDAP for row 1460 prefix 177.4.1.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.4.1.0/24",
+      "queryIp": "177.4.1.0",
+      "rir": "",
+      "row": 1460
+    },
+    {
+      "error": "query RDAP for row 1839 prefix 177.2.184.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.2.184.0/24",
+      "queryIp": "177.2.184.0",
+      "rir": "",
+      "row": 1839
+    },
+    {
+      "error": "query RDAP for row 2518 prefix 177.3.88.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.3.88.0/24",
+      "queryIp": "177.3.88.0",
+      "rir": "",
+      "row": 2518
+    },
+    {
+      "error": "query RDAP for row 3195 prefix 200.222.232.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "200.222.232.0/24",
+      "queryIp": "200.222.232.0",
+      "rir": "",
+      "row": 3195
+    },
+    {
+      "error": "query RDAP for row 3608 prefix 179.236.96.0/21: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "179.236.96.0/21",
+      "queryIp": "179.236.96.0",
+      "rir": "",
+      "row": 3608
+    },
+    {
+      "error": "query RDAP for row 4124 prefix 186.157.206.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.157.206.0/24",
+      "queryIp": "186.157.206.0",
+      "rir": "",
+      "row": 4124
+    },
+    {
+      "error": "query RDAP for row 4599 prefix 177.4.81.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.4.81.0/24",
+      "queryIp": "177.4.81.0",
+      "rir": "",
+      "row": 4599
+    },
+    {
+      "error": "query RDAP for row 4818 prefix 177.5.115.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.5.115.0/24",
+      "queryIp": "177.5.115.0",
+      "rir": "",
+      "row": 4818
+    },
+    {
+      "error": "query RDAP for row 6351 prefix 186.158.186.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.158.186.0/24",
+      "queryIp": "186.158.186.0",
+      "rir": "",
+      "row": 6351
+    },
+    {
+      "error": "query RDAP for row 7067 prefix 181.116.46.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "181.116.46.0/24",
+      "queryIp": "181.116.46.0",
+      "rir": "",
+      "row": 7067
+    },
+    {
+      "error": "query RDAP for row 7201 prefix 181.116.143.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "181.116.143.0/24",
+      "queryIp": "181.116.143.0",
+      "rir": "",
+      "row": 7201
+    },
+    {
+      "error": "query RDAP for row 7591 prefix 190.220.147.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "190.220.147.0/24",
+      "queryIp": "190.220.147.0",
+      "rir": "",
+      "row": 7591
+    },
+    {
+      "error": "query RDAP for row 8673 prefix 2800:370:3::/48: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "2800:370:3::/48",
+      "queryIp": "2800:370:3::",
+      "rir": "",
+      "row": 8673
+    },
+    {
+      "error": "query RDAP for row 8761 prefix 186.42.120.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.42.120.0/24",
+      "queryIp": "186.42.120.0",
+      "rir": "",
+      "row": 8761
+    },
+    {
+      "error": "query RDAP for row 9249 prefix 186.157.159.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.157.159.0/24",
+      "queryIp": "186.157.159.0",
+      "rir": "",
+      "row": 9249
+    },
+    {
+      "error": "query RDAP for row 9425 prefix 190.221.144.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "190.221.144.0/24",
+      "queryIp": "190.221.144.0",
+      "rir": "",
+      "row": 9425
+    },
+    {
+      "error": "query RDAP for row 9601 prefix 2800:370:4a::/48: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "2800:370:4a::/48",
+      "queryIp": "2800:370:4a::",
+      "rir": "",
+      "row": 9601
+    },
+    {
+      "error": "query RDAP for row 10030 prefix 186.182.103.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.182.103.0/24",
+      "queryIp": "186.182.103.0",
+      "rir": "",
+      "row": 10030
+    },
+    {
+      "error": "query RDAP for row 10107 prefix 190.221.17.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "190.221.17.0/24",
+      "queryIp": "190.221.17.0",
+      "rir": "",
+      "row": 10107
+    },
+    {
+      "error": "query RDAP for row 10324 prefix 181.116.194.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "181.116.194.0/24",
+      "queryIp": "181.116.194.0",
+      "rir": "",
+      "row": 10324
+    }
+  ],
+  "errorRows": 6402,
+  "jsonRows": 621297,
+  "perRir": [
+    {
+      "distinctNetworkNameSharePct": 1.51,
+      "distinctNetworkNames": 1279,
+      "distinctPrefixes": 8828,
+      "errorRows": 0,
+      "medianRowsPerNetworkName": 1,
+      "networkNamesWithOneRow": 810,
+      "rir": "afrinic",
+      "successfulRowSharePct": 1.44,
+      "successfulRows": 8828,
+      "top10NetworkNameRows": 4663,
+      "top10NetworkNameSharePct": 52.82,
+      "topFinalRdapHost": "rdap.afrinic.net",
+      "topFinalRdapHostRows": 8828
+    },
+    {
+      "distinctNetworkNameSharePct": 2.69,
+      "distinctNetworkNames": 2282,
+      "distinctPrefixes": 20838,
+      "errorRows": 0,
+      "medianRowsPerNetworkName": 1.0,
+      "networkNamesWithOneRow": 1512,
+      "rir": "apnic",
+      "successfulRowSharePct": 3.39,
+      "successfulRows": 20838,
+      "top10NetworkNameRows": 8440,
+      "top10NetworkNameSharePct": 40.5,
+      "topFinalRdapHost": "rdap.apnic.net",
+      "topFinalRdapHostRows": 20838
+    },
+    {
+      "distinctNetworkNameSharePct": 21.34,
+      "distinctNetworkNames": 18113,
+      "distinctPrefixes": 213444,
+      "errorRows": 0,
+      "medianRowsPerNetworkName": 1,
+      "networkNamesWithOneRow": 14742,
+      "rir": "arin",
+      "successfulRowSharePct": 34.71,
+      "successfulRows": 213444,
+      "top10NetworkNameRows": 84463,
+      "top10NetworkNameSharePct": 39.57,
+      "topFinalRdapHost": "rdap.arin.net",
+      "topFinalRdapHostRows": 213444
+    },
+    {
+      "distinctNetworkNameSharePct": 1.25,
+      "distinctNetworkNames": 1057,
+      "distinctPrefixes": 4186,
+      "errorRows": 0,
+      "medianRowsPerNetworkName": 1,
+      "networkNamesWithOneRow": 813,
+      "rir": "lacnic",
+      "successfulRowSharePct": 0.68,
+      "successfulRows": 4186,
+      "top10NetworkNameRows": 1157,
+      "top10NetworkNameSharePct": 27.64,
+      "topFinalRdapHost": "rdap.lacnic.net",
+      "topFinalRdapHostRows": 4186
+    },
+    {
+      "distinctNetworkNameSharePct": 73.21,
+      "distinctNetworkNames": 62129,
+      "distinctPrefixes": 367599,
+      "errorRows": 0,
+      "medianRowsPerNetworkName": 1,
+      "networkNamesWithOneRow": 43515,
+      "rir": "ripe",
+      "successfulRowSharePct": 59.78,
+      "successfulRows": 367599,
+      "top10NetworkNameRows": 163850,
+      "top10NetworkNameSharePct": 44.57,
+      "topFinalRdapHost": "rdap.db.ripe.net",
+      "topFinalRdapHostRows": 367599
+    },
+    {
+      "distinctNetworkNameSharePct": 0,
+      "distinctNetworkNames": 0,
+      "distinctPrefixes": 0,
+      "errorRows": 6402,
+      "medianRowsPerNetworkName": 0,
+      "networkNamesWithOneRow": 0,
+      "rir": "unknown",
+      "successfulRowSharePct": 0,
+      "successfulRows": 0,
+      "top10NetworkNameRows": 0,
+      "top10NetworkNameSharePct": 0.0,
+      "topFinalRdapHost": "",
+      "topFinalRdapHostRows": 0
+    }
+  ],
+  "source": "data/rir-rfc8805-output.jsonl.gz",
+  "successfulRows": 614895
+}

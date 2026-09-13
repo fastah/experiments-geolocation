@@ -14,6 +14,10 @@ This repository is intended to share reproducible geolocation stats, including:
 
 - [cmd/rir-rfc8805](cmd/rir-rfc8805): enrich RFC 8805-style geofeed CSV rows with RDAP-derived RIR and network metadata.
 
+## Datasets
+
+- [datasets/geolocatemuch-as-is-2026-09-09-semantic-cache-no](datasets/geolocatemuch-as-is-2026-09-09-semantic-cache-no): public JSONL output and reproducible stats for a shuffled geolocatemuch RDAP/RIR run with `semantic-cache=false`.
+
 ## Build
 
 ```bash

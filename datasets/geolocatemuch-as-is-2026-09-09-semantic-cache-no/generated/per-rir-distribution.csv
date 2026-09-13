@@ -1,0 +1,7 @@
+rir,successfulRows,successfulRowSharePct,errorRows,distinctPrefixes,distinctNetworkNames,distinctNetworkNameSharePct,networkNamesWithOneRow,top10NetworkNameRows,top10NetworkNameSharePct,medianRowsPerNetworkName,topFinalRdapHost,topFinalRdapHostRows
+afrinic,8828,1.44,0,8828,1279,1.51,810,4663,52.82,1,rdap.afrinic.net,8828
+apnic,20838,3.39,0,20838,2282,2.69,1512,8440,40.5,1.0,rdap.apnic.net,20838
+arin,213444,34.71,0,213444,18113,21.34,14742,84463,39.57,1,rdap.arin.net,213444
+lacnic,4186,0.68,0,4186,1057,1.25,813,1157,27.64,1,rdap.lacnic.net,4186
+ripe,367599,59.78,0,367599,62129,73.21,43515,163850,44.57,1,rdap.db.ripe.net,367599
+unknown,0,0,6402,0,0,0,0,0,0.0,0,,0

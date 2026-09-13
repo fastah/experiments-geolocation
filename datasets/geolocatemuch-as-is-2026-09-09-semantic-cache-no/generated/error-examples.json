@@ -1,0 +1,145 @@
+{
+  "errorRows": 6402,
+  "examples": [
+    {
+      "error": "query RDAP for row 1460 prefix 177.4.1.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.4.1.0/24",
+      "queryIp": "177.4.1.0",
+      "rir": "",
+      "row": 1460
+    },
+    {
+      "error": "query RDAP for row 1839 prefix 177.2.184.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.2.184.0/24",
+      "queryIp": "177.2.184.0",
+      "rir": "",
+      "row": 1839
+    },
+    {
+      "error": "query RDAP for row 2518 prefix 177.3.88.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.3.88.0/24",
+      "queryIp": "177.3.88.0",
+      "rir": "",
+      "row": 2518
+    },
+    {
+      "error": "query RDAP for row 3195 prefix 200.222.232.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "200.222.232.0/24",
+      "queryIp": "200.222.232.0",
+      "rir": "",
+      "row": 3195
+    },
+    {
+      "error": "query RDAP for row 3608 prefix 179.236.96.0/21: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "179.236.96.0/21",
+      "queryIp": "179.236.96.0",
+      "rir": "",
+      "row": 3608
+    },
+    {
+      "error": "query RDAP for row 4124 prefix 186.157.206.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.157.206.0/24",
+      "queryIp": "186.157.206.0",
+      "rir": "",
+      "row": 4124
+    },
+    {
+      "error": "query RDAP for row 4599 prefix 177.4.81.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.4.81.0/24",
+      "queryIp": "177.4.81.0",
+      "rir": "",
+      "row": 4599
+    },
+    {
+      "error": "query RDAP for row 4818 prefix 177.5.115.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "177.5.115.0/24",
+      "queryIp": "177.5.115.0",
+      "rir": "",
+      "row": 4818
+    },
+    {
+      "error": "query RDAP for row 6351 prefix 186.158.186.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.158.186.0/24",
+      "queryIp": "186.158.186.0",
+      "rir": "",
+      "row": 6351
+    },
+    {
+      "error": "query RDAP for row 7067 prefix 181.116.46.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "181.116.46.0/24",
+      "queryIp": "181.116.46.0",
+      "rir": "",
+      "row": 7067
+    },
+    {
+      "error": "query RDAP for row 7201 prefix 181.116.143.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "181.116.143.0/24",
+      "queryIp": "181.116.143.0",
+      "rir": "",
+      "row": 7201
+    },
+    {
+      "error": "query RDAP for row 7591 prefix 190.220.147.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "190.220.147.0/24",
+      "queryIp": "190.220.147.0",
+      "rir": "",
+      "row": 7591
+    },
+    {
+      "error": "query RDAP for row 8673 prefix 2800:370:3::/48: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "2800:370:3::/48",
+      "queryIp": "2800:370:3::",
+      "rir": "",
+      "row": 8673
+    },
+    {
+      "error": "query RDAP for row 8761 prefix 186.42.120.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.42.120.0/24",
+      "queryIp": "186.42.120.0",
+      "rir": "",
+      "row": 8761
+    },
+    {
+      "error": "query RDAP for row 9249 prefix 186.157.159.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.157.159.0/24",
+      "queryIp": "186.157.159.0",
+      "rir": "",
+      "row": 9249
+    },
+    {
+      "error": "query RDAP for row 9425 prefix 190.221.144.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "190.221.144.0/24",
+      "queryIp": "190.221.144.0",
+      "rir": "",
+      "row": 9425
+    },
+    {
+      "error": "query RDAP for row 9601 prefix 2800:370:4a::/48: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "2800:370:4a::/48",
+      "queryIp": "2800:370:4a::",
+      "rir": "",
+      "row": 9601
+    },
+    {
+      "error": "query RDAP for row 10030 prefix 186.182.103.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "186.182.103.0/24",
+      "queryIp": "186.182.103.0",
+      "rir": "",
+      "row": 10030
+    },
+    {
+      "error": "query RDAP for row 10107 prefix 190.221.17.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "190.221.17.0/24",
+      "queryIp": "190.221.17.0",
+      "rir": "",
+      "row": 10107
+    },
+    {
+      "error": "query RDAP for row 10324 prefix 181.116.194.0/24: No RDAP servers responded successfully (tried 1 server(s))",
+      "prefix": "181.116.194.0/24",
+      "queryIp": "181.116.194.0",
+      "rir": "",
+      "row": 10324
+    }
+  ]
+}
